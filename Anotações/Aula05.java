@@ -15,7 +15,7 @@ criada no arquivo .java, por isso os nomes, do arquivo e da classe, devem ser ig
 
 // Passo a Passo
 // declarando uma classe com "class"
-class Aula01{   // Nome da classe é Aula01
+class Aula05{   // Nome da classe é Aula01
     public static void main(String[] args){     // Ponto de Entrada do Java (Método)
         System.out.println("Hello World!");     // Comando de saída de impressão
     }
