@@ -1,4 +1,4 @@
-class LivroDeLivraria{
+class LivroDeBiblioteca{
     String titulo;
     String autor;
     String editora;
