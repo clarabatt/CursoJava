@@ -8,8 +8,12 @@ Meu objetivo no curso é aprender Orientação a Objetos, por isso pulo algumas 
 ## [Aula 05](Anotações/Aula05.java)
 Primeiro Programa
 
+[Exercício OK](Exercícios/Aula05/OlaMundo.java)
+
 ## [Aula 06](Anotações/Aula06.java)
 Passando Argumentos via Terminal
+
+[Exercício OK](Exercícios/Aula06/Argumentos2.java)
 
 ##### Aulas 7 e 8 sobre erros e instalação de IDE.
 
@@ -17,3 +21,8 @@ Passando Argumentos via Terminal
 Introdução a POO
 
 ##### Aulas 10 a 23 sobre Introdução a Lógica de Programação.
+
+## [Aula 24](Anotações/Aula24.java)
+Classes e Atributos
+
+[Instruções do Exercício](http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24)
