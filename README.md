@@ -8,3 +8,5 @@ Primeiro Programa
 
 ## [Aula 06](Anotações/Aula06.java)
 Passando Argumentos via Terminal
+
+##### Aulas 7 e 8 sobre erros e instalação de IDE
