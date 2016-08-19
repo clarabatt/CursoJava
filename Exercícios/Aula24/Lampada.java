@@ -3,5 +3,8 @@ class Lampada{
     String modelo;
     double preco;
     int potencia;
-    String corDaLuz;
+    String corLuz;
+    String tensao;
+    int garantiaMeses;
+    String[] tipos;
 }
