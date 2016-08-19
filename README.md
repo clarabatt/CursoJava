@@ -26,3 +26,8 @@ Introdução a POO
 Classes e Atributos
 
 [Instruções do Exercício](http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24)
+
+[Exercício OK](Exercícios/Aula24)
+
+## [Aula 25](Anotações/Aula25.java)
+Definição de Métodos em Classes
